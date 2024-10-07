@@ -40,12 +40,6 @@ This Code of Conduct applies both within project spaces and in public spaces whe
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting the project team at [david@cynthiasystems.com](mailto:david@cynthiasystems.com). All complaints will be reviewed and investigated and will result in a response that is deemed necessary.
 
-Here's a continuation for the Code of Conduct under the **Enforcement Guidelines** and **Attribution** sections. Let me know if you'd like any specific adjustments!
-
----
-
-## Enforcement Guidelines
-
 Project maintainers will follow these guidelines to determine the consequences for any action they deem in violation of this Code of Conduct:
 
 1. **Correction**
