@@ -38,4 +38,32 @@ This Code of Conduct applies both within project spaces and in public spaces whe
 
 ## Enforcement
 
-Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting the project team at [david@cynthiasystems.com](mailto:david@cynthiasystems.com). All complaints will be reviewed and investigated and will result in a response that is deemed necessary
+Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting the project team at [david@cynthiasystems.com](mailto:david@cynthiasystems.com). All complaints will be reviewed and investigated and will result in a response that is deemed necessary.
+
+Here's a continuation for the Code of Conduct under the **Enforcement Guidelines** and **Attribution** sections. Let me know if you'd like any specific adjustments!
+
+---
+
+## Enforcement Guidelines
+
+Project maintainers will follow these guidelines to determine the consequences for any action they deem in violation of this Code of Conduct:
+
+1. **Correction**
+    - Community impact: Use of inappropriate language or other behavior deemed unprofessional or unwelcome.
+    - Consequence: A private, written warning from project maintainers, providing clarity around the nature of the violation and an explanation of why the behavior was inappropriate. The violator will be asked to refrain from similar behavior.
+
+2. **Warning**
+    - Community impact: A violation through a single significant incident or a repeated series of actions.
+    - Consequence: A warning with consequences for continued behavior, including temporary or permanent suspension from project spaces and/or channels of interaction.
+
+3. **Temporary Ban**
+    - Community impact: A serious violation of community standards, including sustained inappropriate behavior.
+    - Consequence: A temporary ban from any or all community spaces. The banned individual will be informed of the time period and any conditions for reinstatement.
+
+4. **Permanent Ban**
+    - Community impact: Demonstrating a pattern of violation of community standards, including harassment, aggression, or discrimination.
+    - Consequence: A permanent ban from any or all project spaces.
+
+## Attribution
+
+This Code of Conduct is adapted from the [Contributor Covenant](https://www.contributor-covenant.org), version 2.0, available at [https://www.contributor-covenant.org/version/2/0/code_of_conduct.html](https://www.contributor-covenant.org/version/2/0/code_of_conduct.html).
