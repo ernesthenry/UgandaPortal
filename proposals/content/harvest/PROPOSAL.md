@@ -37,19 +37,19 @@ This proposal outlines a comprehensive strategy for harvesting, processing, and 
 
 
 ### 3.1 Web Crawling Infrastructure
-Excellent proposal for developing a robust web crawling system. I'd like to highlight a key aspect of our strategy:
+- Excellent proposal for developing a robust web crawling system. I'd like to highlight a key aspect of our strategy:
 
-As part of our corporate partnerships, we exclusively use ScrapingBee for our web crawling needs. This partnership is central to our approach, and I will personally lead the implementation of our ScrapingBee-based crawling strategy.
+- As part of our corporate partnerships, we exclusively use ScrapingBee for our web crawling needs. This partnership is central to our approach, and I will personally lead the implementation of our ScrapingBee-based crawling strategy.
 
 A few important points to note:
 
-Terminology: We align our language with industry standards. Please replace all instances of "scraping" with "crawling" throughout the document. This reflects the more neutral, Google-aligned term for what we do.
+- Terminology: We align our language with industry standards. Please replace all instances of "scraping" with "crawling" throughout the document. This reflects the more neutral, Google-aligned term for what we do.
 
-Infrastructure: While the proposal mentions Scrapy and Puppeteer, our focus will be on leveraging ScrapingBee's capabilities. Their platform already provides a distributed, fault-tolerant system capable of handling diverse content types.
+- Infrastructure: While the proposal mentions Scrapy and Puppeteer, our focus will be on leveraging ScrapingBee's capabilities. Their platform already provides a distributed, fault-tolerant system capable of handling diverse content types.
 
-Scope: We'll still address the full range of content, from static HTML to JavaScript-rendered pages, but through ScrapingBee's comprehensive toolset.
+- Scope: We'll still address the full range of content, from static HTML to JavaScript-rendered pages, but through ScrapingBee's comprehensive toolset.
 
-I'll work closely with the team to ensure we fully utilize ScrapingBee's features in building our crawling infrastructure for the Uganda Portal project. This approach will guarantee efficiency, compliance, and alignment with our corporate partnerships.
+- I'll work closely with the team to ensure we fully utilize ScrapingBee's features in building our crawling infrastructure for the Uganda Portal project. This approach will guarantee efficiency, compliance, and alignment with our corporate partnerships.
 <!-- ### 3.2 Data Extraction Techniques
 - Employ advanced HTML parsing techniques, along with machine learning models, to extract relevant content from both structured and unstructured web pages.
 - Leverage Named Entity Recognition (NER) to identify key pieces of information such as places, organizations, events, and dates.
@@ -57,27 +57,27 @@ I'll work closely with the team to ensure we fully utilize ScrapingBee's feature
    -->
 
 ### 3.2 Data Extraction Techniques
-The proposed approach for data extraction is sound, and we have an opportunity to make a significant contribution to the open-source community in this area.
+- The proposed approach for data extraction is sound, and we have an opportunity to make a significant contribution to the open-source community in this area.
 
-Historically, the Dragnet library has been the de facto best-in-class solution for extracting meaningful content while avoiding boilerplate in web pages. However, Dragnet has not been maintained and is incompatible with recent Python versions.
+- Historically, the Dragnet library has been the de facto best-in-class solution for extracting meaningful content while avoiding boilerplate in web pages. However, Dragnet has not been maintained and is incompatible with recent Python versions.
 
-I propose we consider the following enhancement to our strategy:
+- I propose we consider the following enhancement to our strategy:
 
-Reimagine Dragnet for the AI and LLM era: We could develop a modern successor to Dragnet, designed to work with current Python versions and incorporate recent advancements in machine learning and natural language processing.
+- Reimagine Dragnet for the AI and LLM era: We could develop a modern successor to Dragnet, designed to work with current Python versions and incorporate recent advancements in machine learning and natural language processing.
 
-Focus on noise reduction: Our new library could excel at removing not just traditional boilerplate, but also modern web elements that often interfere with content extraction, such as cookie consent banners, pop-ups, and dynamic navigation elements.
+- Focus on noise reduction: Our new library could excel at removing not just traditional boilerplate, but also modern web elements that often interfere with content extraction, such as cookie consent banners, pop-ups, and dynamic navigation elements.
 
-Open-source contribution: By making this tool open-source, we would provide immense value to the web content extraction community while positioning ourselves as thought leaders in this space.
+- Open-source contribution: By making this tool open-source, we would provide immense value to the web content extraction community while positioning ourselves as thought leaders in this space.
 
-Integration with our system: Naturally, we would integrate this new library into our own extraction pipeline, potentially improving our results significantly.
+- Integration with our system: Naturally, we would integrate this new library into our own extraction pipeline, potentially improving our results significantly.
 
-This approach would not only enhance our own capabilities but also create goodwill and potentially attract talent and partnerships through our contribution to the open-source ecosystem.
+- This approach would not only enhance our own capabilities but also create goodwill and potentially attract talent and partnerships through our contribution to the open-source ecosystem.
 
 Key points to retain from the original proposal:
 
-Use advanced HTML parsing techniques
-Employ machine learning models
-Extract content from both structured and unstructured web pages
+- Use advanced HTML parsing techniques
+- Employ machine learning models
+- Extract content from both structured and unstructured web pages
 By combining these with our proposed Dragnet successor, we could create a truly powerful and modern content extraction system.
 
 
